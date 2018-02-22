@@ -4,6 +4,6 @@
 
 railsディレクトリのrootに配置し
 
-```
-docker-compose run -d
+```bash
+$ docker-compose run -d
 ```
