@@ -1,13 +1,12 @@
 # docker-compose-rails
 
-## 使い方
+## How to use
 
-railsディレクトリのrootに配置し
+add to rails directory
 
 ```bash
-$ docker-compose up
-$ docker-compose run --service-ports web
+$ docker-compose up --build
 ```
-## pryの使い方（以下参照）
+## How to use pry (see below)
 
 https://qiita.com/kosukeKK/items/f7111247f22050aeedad
